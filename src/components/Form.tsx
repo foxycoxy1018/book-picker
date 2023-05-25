@@ -1,5 +1,4 @@
 import { ChangeEvent, FormEvent, useState } from "react";
-import Button from "./Button";
 
 interface Props {
   name: string;
